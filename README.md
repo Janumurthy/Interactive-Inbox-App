@@ -1,5 +1,5 @@
 ## Interactive Inbox app
-A ReactJS application which contains a list and a detail view of news articles.
+A ReactJS application which contains an inbox of news articles fetched using News API
 
 ### Creating a react app with a list and detailed view
 
@@ -31,3 +31,4 @@ A ReactJS application which contains a list and a detail view of news articles.
 1. If the component renders properly
 2. If the number of items rendered is equal to the number of items present in the mockdata
 3. If the detailed view section shows the right data for that of the item selected
+
